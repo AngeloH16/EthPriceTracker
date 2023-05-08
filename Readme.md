@@ -1,2 +1,3 @@
 # Readme
-- Test
+- Project for analysing banking transactions
+  
